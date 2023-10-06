@@ -2,7 +2,7 @@
 Teste de dados SCS - Smart Creative Solutions
 ##
 # Desafio 
-
+#
 * Será que nossos diferentes lojistas associados conseguem manter o preço do mesmo produto sem grandes discrepâncias?
   ##
     Primeiramente, para responder a esse questionamento, irei mostrar um gráfico, feito a partir da amostra de um produto e o  preço que cada lojista atribuiu:
@@ -83,7 +83,7 @@ Teste de dados SCS - Smart Creative Solutions
   
    Como a atual situação do marketplace é o big data, existem sim opções, como o hadoop e também prezar pela  qualidade dos dados, dados que podem virar insights relevantes para as tomadas de decisão.
 
-
+#
 ## Outras constatações
 
 * A concentração dos clientes:
@@ -147,3 +147,5 @@ Programação Hashtag.Introdução a Análise de Dados com Python - [Primeiros P
 PLOTLY. Disponível em: https://plotly.com/graphing-libraries/
 
 Teste Prático. Disponível em: https://github.com/olist/work-at-olist-data/tree/master
+
+##
