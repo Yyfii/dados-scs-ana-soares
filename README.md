@@ -7,8 +7,10 @@ Teste de dados SCS - Smart Creative Solutions
 * Será que nossos diferentes lojistas associados conseguem manter o preço do mesmo produto sem grandes discrepâncias?
 
     Primeiramente, para responder a esse questionamento, irei mostrar um gráfico, feito a partir da amostra de um produto e o  preço que cada lojista atribuiu:
-   ![image](https://github.com/Yyfii/dados-scs-ana-soares/assets/125479516/d2fef7ba-a8c1-40eb-971f-140024d85f63)
-  É possível inferir de acordo com o gráfico que há uma variação aproximadamente nos intervalos de 74 para 90 na faixa de preços de um mesmo produto, do qual foram analisados o preço de 488 pedidos de diferentes lojistas.
+  
+   ![image](https://github.com/Yyfii/dados-scs-ana-soares/assets/125479516/2ed66707-a109-44fd-b3fb-0ed23d9498ca)
+
+    É possível inferir de acordo com o gráfico que há uma variação aproximadamente nos intervalos de 74 para 90 na faixa de preços de um mesmo produto, do qual foram analisados o preço de 488 pedidos de diferentes lojistas.
   
    - Total de pedidos do mesmo produto: 488
    - Faturamento do produto sem frete: R$ 43025,56
@@ -18,7 +20,8 @@ Teste de dados SCS - Smart Creative Solutions
    
    Analisando também os dados de algumas outras amostras aleatórias, que receberam diferentes pedidos:
    
-   ![image](https://github.com/Yyfii/dados-scs-ana-soares/assets/125479516/ec244a98-b9f4-4e60-86bf-40932b2eef17)
+   ![image](https://github.com/Yyfii/dados-scs-ana-soares/assets/125479516/f09e6369-5dd2-4113-b0bf-05358e54cbc0)
+
 
     Percebe-se que o produto foi vendido nove vezes pelo mesmo vendedor, entretanto com preços diferentes.
    
@@ -26,7 +29,8 @@ Teste de dados SCS - Smart Creative Solutions
 
   A partir da análise de dados constatou-se qual o lojista que mais recebeu pedidos, o ['id_vendedor'] == '6560211a19b47992c3666cc44a7e94c0'], com um total de 2033 pedidos.
   
-  ![image](https://github.com/Yyfii/dados-scs-ana-soares/assets/125479516/d6599c44-57cb-4aaa-a601-9277570f713f)
+  ![image](https://github.com/Yyfii/dados-scs-ana-soares/assets/125479516/265143ca-397c-4124-879b-77bbb2056ece)
+
 
 * Existe diferença no valor do frete praticado em regiões/cidades diferentes? Ou podemos aplicar as mesmas regras de subsídio de frete para qualquer localidade?
   
