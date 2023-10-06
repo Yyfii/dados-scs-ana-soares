@@ -2,9 +2,9 @@
 Teste de dados SCS - Smart Creative Solutions
 ##
 # Desafio 
-#
+
 * Será que nossos diferentes lojistas associados conseguem manter o preço do mesmo produto sem grandes discrepâncias?
-  ##
+
     Primeiramente, para responder a esse questionamento, irei mostrar um gráfico, feito a partir da amostra de um produto e o  preço que cada lojista atribuiu:
    ![image](https://github.com/Yyfii/dados-scs-ana-soares/assets/125479516/d2fef7ba-a8c1-40eb-971f-140024d85f63)
   É possível inferir de acordo com o gráfico que há uma variação aproximadamente nos intervalos de 74 para 90 na faixa de preços de um mesmo produto, do qual foram analisados o preço de 488 pedidos de diferentes lojistas.
