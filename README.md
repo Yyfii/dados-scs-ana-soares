@@ -1,6 +1,7 @@
 # Teste de Dados (dados-scs-ana-soares)
+
 Teste de dados SCS - Smart Creative Solutions
-##
+
 # Desafio 
 
 * Será que nossos diferentes lojistas associados conseguem manter o preço do mesmo produto sem grandes discrepâncias?
