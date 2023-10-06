@@ -146,3 +146,4 @@ Programação Hashtag.Introdução a Análise de Dados com Python - [Primeiros P
 
 PLOTLY. Disponível em: https://plotly.com/graphing-libraries/
 
+Teste Prático. Disponível em: https://github.com/olist/work-at-olist-data/tree/master
